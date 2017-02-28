@@ -52,6 +52,7 @@ V0.5 (alpha) - https://goo.gl/cs2qw5
 ##### v0.7 (2017-02-28)
 * Pause indicator
 * Token parsing & highlighting
+* Pause timer when system goes to sleep and resume when system awake
 
 ##### v0.5 (2017-02-26)
 * Initial version
