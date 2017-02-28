@@ -43,8 +43,7 @@ eg.,
 
 ### Download
 
-V0.5 (alpha) - https://goo.gl/cs2qw5
-
+[Download Latest (beta)](https://goo.gl/cs2qw5)
 
 
 ### Release notes
