@@ -20,6 +20,11 @@ eg.,
 
 [![TimeTracker demo youtube link](https://img.youtube.com/vi/OIGbxf3Xtb8/0.jpg)](https://www.youtube.com/watch?v=OIGbxf3Xtb8)
 
+#### Note:
+
+* For demo/testing purpose, this demo build 5 second timer. So ignore the hh:mm calculations
+* App not optimized for multiple monitor, hence I was drag/droping from different screen in demo
+    
 
 ### Screenshots
 
@@ -33,11 +38,7 @@ eg.,
 
 ![TimeTracker copy data as csv](resources/screenshots/app-report-table-copy.png)
 
-### Note:
 
-* For demo/testing purpose, this demo build 5 second timer. So ignore the hh:mm calculations
-* App not optimized for multiple monitor, hence I was drag/droping from different screen in demo
-    
 
 
 ### Download
