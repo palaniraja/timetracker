@@ -61,4 +61,4 @@ eg.,
 
 ### Credits
 
-App Icon - [Nick Roach](https://www.iconfinder.com/icons/1055090/clock_time_timer_icon#size=128) - http://www.elegantthemes.com/
+[App Icon](https://www.iconfinder.com/icons/1055090/clock_time_timer_icon#size=128) - [Nick Roach](http://www.elegantthemes.com/)
