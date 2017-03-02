@@ -56,3 +56,9 @@ eg.,
 ##### v0.5 (2017-02-26)
 * Initial version
 * Full/Mini view
+
+
+
+### Credits
+
+App Icon - [Nick Roach](https://www.iconfinder.com/icons/1055090/clock_time_timer_icon#size=128) - http://www.elegantthemes.com/
