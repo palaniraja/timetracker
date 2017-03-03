@@ -50,7 +50,7 @@ eg.,
 ##### v0.9 (2017-03-02)
 * Now, report include basic bar chart
 * Tapping on a bar, highlight the corresponding data
-* <TAB> or <RETURN> to start the task from inputfield enabled again
+* {TAB} or {RETURN} to start the task from inputfield enabled again
 * Space between time and state indicator corrected in miniview
 
 ##### v0.7 (2017-02-28)
