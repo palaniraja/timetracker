@@ -42,7 +42,7 @@ eg.,
 
 ### Download
 
-[Download Latest (beta)](https://github.com/palaniraja/timetracker/releases)
+[Download Latest v0.9.3(beta)](https://github.com/palaniraja/timetracker/releases/tag/v0.9.3)
 
 
 ### Release notes
