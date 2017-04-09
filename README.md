@@ -1,5 +1,6 @@
 
 ## TimeTracker
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/palaniraja)
 
 An utility app for mac, accept you current task (free text), and keep a timer to log the minutes you spent on task.
 
