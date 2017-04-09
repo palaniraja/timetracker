@@ -42,26 +42,12 @@ eg.,
 
 ### Download
 
-[Download Latest (beta)](https://goo.gl/cs2qw5)
+[Download Latest (beta)](https://github.com/palaniraja/timetracker/releases)
 
 
 ### Release notes
 
-##### v0.9 (2017-03-02)
-* Now, report include basic bar chart
-* Tapping on a bar, highlight the corresponding data
-* {TAB} or {RETURN} to start the task from inputfield enabled again
-* Space between time and state indicator corrected in miniview
-
-##### v0.7 (2017-02-28)
-* Pause indicator
-* Token parsing & highlighting
-* Pause timer when system goes to sleep and resume when system awake
-
-##### v0.5 (2017-02-26)
-* Initial version
-* Full/Mini view
-
+Refer releases page - https://github.com/palaniraja/timetracker/releases
 
 
 ### Credits
