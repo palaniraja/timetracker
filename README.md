@@ -47,7 +47,7 @@ eg.,
 
 ### OSX Mojave - Dark mode users
 
-App doesn't play well with Dark mode when editing the task. Till I update the app, you may temporarily run the below command to use the app in dark mode.
+App doesn't play well with Dark mode when editing the task. Till I update the app, you may temporarily run the below command in your terminal.app to use the app in dark mode.
 
 `defaults write com.palaniraja.timetracker.TimeTracker NSRequiresAquaSystemAppearance -bool yes`
 
