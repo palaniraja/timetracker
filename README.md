@@ -45,6 +45,11 @@ eg.,
 
 [Download Latest v0.9.4(beta)](https://github.com/palaniraja/timetracker/releases/latest)
 
+### OSX Mojave - Dark mode users
+
+App doesn't play well with Dark mode when editing the task. Till I update the app, you may temporarily run the below command to use the app in dark mode.
+
+`defaults write com.palaniraja.timetracker.TimeTracker NSRequiresAquaSystemAppearance -bool yes`
 
 ### Release notes
 
